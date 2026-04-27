@@ -52,8 +52,3 @@ $$\mathcal{L}_{total} = \lambda_1 \mathcal{L}_{data} + \lambda_2 \mathcal{L}_{ph
 * **Noise Resilience:** Effectively filters out random fluctuations in experimental datasets.
 * **Physical Consistency:** Prevents the model from making "impossible" predictions that violate gravity.
 * **Data Efficiency:** Requires significantly fewer data points to reach convergence compared to standard ANNs because the physics "fills in the gaps."
-
----
-
-## 📊 Results Visualization
-The model successfully ignores the outliers in the red (noisy) data points and aligns closely with the black (exact) physical solution.
