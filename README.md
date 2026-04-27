@@ -57,12 +57,3 @@ $$\mathcal{L}_{total} = \lambda_1 \mathcal{L}_{data} + \lambda_2 \mathcal{L}_{ph
 
 ## 📊 Results Visualization
 The model successfully ignores the outliers in the red (noisy) data points and aligns closely with the black (exact) physical solution.
-
-
-
----
-
-## 📂 How to Run
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/your-username/PINN-Ball-Trajectory.git](https://github.com/your-username/PINN-Ball-Trajectory.git)
